@@ -42,5 +42,5 @@ The analysis suggests that market sentiment can act as a useful contextual signa
 - `final_trader_daily_features.csv` → Engineered account-day dataset
 - `segment_comparison_summary.csv` → Final segment comparison output
 
-##AUTHOR
+## AUTHOR
 **MANTHAN PATEL**
